@@ -15,7 +15,7 @@ This repository is designed to showcase the implementation of LLMs in different 
 | 5. | Intelligent Image Gallery with Deduplication & Text Based Search using OpenAI CLIP | Qdrant, Gradio, ```clip-ViT-B-32``` | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/CLIP_AI_Gallery) |
 | 6. | RAG without GPU using GPT4All x Mistral-7B | Qdrant, LangChain, GPT4All | [Repo]() |
 | 7. | Medical Chat Doctor by Finetuning Mistral-7B using PEFT & QLoRA | Transformers, BitsAndBytes, PEFT, Gradio | [Repo]() |
-| 8. | RAG model using Gemma | HuggingFace, Weaviate, DSPy, Gradio | [Repo](https://github.com/Jkanishkha0305/End-to-End-LLM-Projects/tree/main/RAG_Gemma) |
+| 8. | RAG model using Gemma | HuggingFace, Weaviate, DSPy, Gradio | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/Gemma_RAG) |
 | 9. | Fine-Tuning Phi-3 with Unsloth on Custom Dataset | Unsloth, Huggingface, PEFT | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/PHI3_Finetuning_Unsloth) |
 | 10. | Multimodal Healthcare RAG using Gemini | Gemini-1.5-flash, Qdrant, Llamaindex, Gradio | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/Multimodal_Healthcare) |
 | 11. | IKEA Multimodal RAG | Gemini-1.5-flash, OpenAI API, Cohere, LlamaParse, CLIP | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/Multimodal_Healthcare) |
