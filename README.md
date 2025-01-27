@@ -8,7 +8,7 @@ This repository is designed to showcase the implementation of LLMs in different 
 
 | S.no | Project | Tech Stack | Repository | 
 |------|---------|------------|------------|
-| 1. | Retail Database Q&A using Google PaLM | LangChain, ChromaDB, MySQL, FAISS, HuggingFace, Streamlit | [Repo](https://github.com/Jkanishkha0305/End-to-End-LLM-Projects/tree/main/PaLM_sqldb_tshirts) |
+| 1. | Retail Database Q&A using Google PaLM | LangChain, ChromaDB, MySQL, FAISS, HuggingFace, Streamlit | [Repo](https://github.com/DhruviPatel157/End-to-End-LLM-Projects/tree/main/PaLM_sqldb_tshirts) |
 | 2. | News Research Tool using Google PaLM | LangChain, Unstructured, FAISS, HuggingFace, Streamlit | [Repo](https://github.com/Jkanishkha0305/End-to-End-LLM-Projects/tree/main/PaLM_news_research_tool) |
 | 3. | LLaMa-2 Blog Generator | LLaMa -2, Langchain, Streamlit | [Repo](https://github.com/Jkanishkha0305/End-to-End-LLM-Projects/tree/main/LLaMa_2_blog_generator) |
 | 4. | Private Healthcare AI Assistant for Clinics | Qdrant, DSPy, Groq - LLaMa3, Gradio, ```BAAI/bge-large-en-v1.5``` | [Repo](https://github.com/Jkanishkha0305/End-to-End-LLM-Projects/tree/main/Groq_Clininc_Assitant) |
